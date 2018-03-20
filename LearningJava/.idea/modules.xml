@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/LearnJava/LearnJava.iml" filepath="$PROJECT_DIR$/LearnJava/LearnJava.iml" />
+      <module fileurl="file://C:\Users\Zohaib\AndroidStudioProjects\LearningJava\LearnJava\LearnJava.iml" filepath="C:\Users\Zohaib\AndroidStudioProjects\LearningJava\LearnJava\LearnJava.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LearningJava.iml" filepath="$PROJECT_DIR$/LearningJava.iml" />
+      <module fileurl="file://$PROJECT_DIR$/WorkWithJava/WorkWithJava.iml" filepath="$PROJECT_DIR$/WorkWithJava/WorkWithJava.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/javaBasic/javaBasic.iml" filepath="$PROJECT_DIR$/javaBasic/javaBasic.iml" />
+      <module fileurl="file://C:\Users\Zohaib\AndroidStudioProjects\LearningJava\javaBasic\javaBasic.iml" filepath="C:\Users\Zohaib\AndroidStudioProjects\LearningJava\javaBasic\javaBasic.iml" />
+    </modules>
+  </component>
+</project>

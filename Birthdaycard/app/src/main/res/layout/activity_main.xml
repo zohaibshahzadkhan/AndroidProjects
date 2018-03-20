@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.android.birthdaycard.MainActivity">
+
+    <!--<ImageView-->
+        <!--android:layout_width="wrap_content"-->
+        <!--android:layout_height="wrap_content"-->
+        <!--android:scaleType="centerCrop"-->
+        <!--android:src="@drawable/birthdayparty"-->
+        <!--/>-->
+
+    <!--<TextView-->
+        <!--android:layout_width="match_parent"-->
+        <!--android:padding="20dp"-->
+        <!--android:layout_height="wrap_content"-->
+        <!--android:text="@string/title"-->
+        <!--android:textSize="32sp"-->
+        <!--android:textColor="@android:color/white"-->
+        <!--android:fontFamily="sans-serif-light"/>-->
+
+    <!--<TextView-->
+        <!--android:layout_width="wrap_content"-->
+        <!--android:layout_height="wrap_content"-->
+        <!--android:padding="20dp"-->
+        <!--android:text="From Robert"-->
+        <!--android:fontFamily="sans-serif-light"-->
+        <!--android:textColor="@android:color/white"-->
+        <!--android:layout_alignParentRight="true"-->
+        <!--android:layout_alignParentBottom="true"-->
+        <!--android:textSize="32sp"/>-->
+
+    <TextView
+        android:id="@+id/textbox_1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Hello"
+        android:textSize="50dp" />
+    <TextView
+        android:id="@+id/textbox_2"
+        android:layout_below="@id/textbox_1"
+        android:layout_toRightOf="@+id/textbox_1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Mansoor"
+        android:textSize="50dp" />
+</Re
+</RelativeLayout>
