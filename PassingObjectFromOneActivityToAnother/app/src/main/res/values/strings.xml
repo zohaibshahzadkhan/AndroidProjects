@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">PassingObjectFromOneActivityToAnother</string>
+    <string name="title_activity_display">display</string>
+</resources>

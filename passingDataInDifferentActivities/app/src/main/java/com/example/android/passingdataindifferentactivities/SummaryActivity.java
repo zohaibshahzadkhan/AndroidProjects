@@ -24,7 +24,7 @@ public class SummaryActivity extends AppCompatActivity {
         Log.i("password",password);
         if(name.equals("Zohaib") && password.equals("pakistan"))
         {
-            mytextView.setText("Login seccessful !");
+            mytextView.setText("Login successful !");
 
         }
         else
