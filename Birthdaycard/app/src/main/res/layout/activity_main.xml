@@ -38,15 +38,14 @@
         android:id="@+id/textbox_1"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
+        android:layout_alignParentRight="true"
         android:text="Hello"
-        android:textSize="50dp" />
+        android:textSize="50sp" />
     <TextView
         android:id="@+id/textbox_2"
-        android:layout_below="@id/textbox_1"
-        android:layout_toRightOf="@+id/textbox_1"
+        android:layout_toLeftOf="@+id/textbox_1"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Mansoor"
-        android:textSize="50dp" />
-</Re
+        android:text="Bhutto"
+        android:textSize="50sp" />
 </RelativeLayout>

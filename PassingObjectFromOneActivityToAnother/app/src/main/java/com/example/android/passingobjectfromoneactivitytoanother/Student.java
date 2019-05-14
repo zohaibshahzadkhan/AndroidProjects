@@ -7,8 +7,8 @@ import java.io.Serializable;
  */
 
 public class Student implements Serializable {
-        private String name;
-        private Integer regNo;
+    private String name;
+    private Integer regNo;
 
     public String getName() {
         return name;

@@ -21,7 +21,6 @@ public class MainActivity extends AppCompatActivity {
             public void onReceive(Context context, Intent intent) {
                 String s=intent.getStringExtra("info");
                 Toast.makeText(getApplicationContext(), s, Toast.LENGTH_SHORT).show();
-
             }
         };
         IntentFilter filter =new IntentFilter("DEBUG_INFO");
